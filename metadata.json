@@ -1,0 +1,6 @@
+{
+  "name": "Caffè Bellissimo",
+  "description": "Artisanal Italian wood-fired dining and culinary concierge with live order GPS tracking, bespoke dish customization, and Bellissimo Club rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
