@@ -85,7 +85,3 @@ Never commit your `.env` file or real API keys.
 - App state is intentionally held in React state for a self-contained demo.
 - Menu items, active orders, reward inventory, saved addresses, packaging options, and payment cards are defined in `src/data/mockData.ts`.
 - The app uses a dark luxury visual theme by default; the preferences interface exposes theme selection for future persistence integration.
-
-## License
-
-No license has been specified for this repository. Add a license file before reusing or distributing the project.
